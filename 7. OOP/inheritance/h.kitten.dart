@@ -26,4 +26,5 @@ class Kitten extends Cat {
       Eat : $eat
       Ear : $ear''');
   }
+  // 2
 }
