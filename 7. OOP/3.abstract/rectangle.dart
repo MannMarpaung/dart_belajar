@@ -19,4 +19,3 @@ class Rectangle extends Shape{
   }
 
 }
-// 4
