@@ -44,3 +44,4 @@ enum Status{
 enum Ultraman{
   Gaia, Cosmos, Nexus, Mebius, Zero, Ginga, Orb, Geed, Rosso, Blue
 }
+// 2
