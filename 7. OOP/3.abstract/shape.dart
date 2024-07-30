@@ -11,6 +11,6 @@ abstract class Shape{
   double keliling();
 
   void display() {
-    print("Warna $color");
+    print("Warna : $color");
   }
 }
