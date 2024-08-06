@@ -61,4 +61,8 @@ void main() {
   // mengurutkan sesuai alphabet
   namaSiswa.sort();
   print(namaSiswa);
+
+  // Menghapus elemen dari list berdasarkan kondisi
+  namaSiswa.removeWhere((element) => element.contains('Aftar'));
+  print(namaSiswa);
 }
